@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "type": "Luxury",
+    "title": "Ocean View",
+    "image": "/Images/rooms-1.jpg",
+    "description": "Accusantium doloremque laudantium, totam rem aperiam beatae vitae dicta sunt explicabo.",
+    "adults": 2,
+    "size": "95 ft²",
+    "price": 79,
+    "photos": [
+                "/Images/rooms-1.jpg",
+                "/Images/rooms-1-photo-1.jpg",
+                "/Images/rooms-1-photo-2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "Standard",
+    "title": "Mountain Retreat",
+    "image": "/Images/rooms-2.jpg",
+    "description": "Enjoy breathtaking mountain views and cozy interiors designed for ultimate comfort.",
+    "adults": 3,
+    "size": "120 ft²",
+    "price": 49,
+    "photos": [
+        "/Images/rooms-2.jpg",
+        "/Images/rooms-2-photo-1.jpg",
+        "/Images/rooms-2-photo-2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "Economy",
+    "title": "Paradise",
+    "image": "/Images/rooms-3.jpg",
+    "description": "Spacious suite with a private balcony, premium amenities, and personalized service.",
+    "adults": 4,
+    "size": "180 ft²",
+    "price": 29,
+    "photos": [
+      "/Images/rooms-3.jpg",
+      "/Images/rooms-3-photo-1.jpg"
+    ]
+  }
+]
